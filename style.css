@@ -1,0 +1,8 @@
+.Screen1 {
+    height: 1000px;
+    background-image: url(img/foto_screen1.webp);
+    width: 1920px;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
